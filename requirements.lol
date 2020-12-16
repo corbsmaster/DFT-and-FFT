@@ -1,3 +1,0 @@
-numpy
-time
-matplotlib.pyplot
