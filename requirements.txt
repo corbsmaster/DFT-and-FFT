@@ -1,2 +1,4 @@
+%ignore this file, if you're a reader
+
 numpy
 matplotlib
